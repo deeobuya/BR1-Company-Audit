@@ -1,6 +1,5 @@
 # BR1-Company-Audit
 An interactive HR analytics dashboard analyzing workforce composition, hiring trends, turnover, and compensation for a 600-person organization.
----
 
 # Overview
 This dashboard was built to answer a core business question: where is this company losing people, and is compensation keeping up with tenure and role? It combines workforce demographics, hiring trends, turnover by department, and bonus distribution into a single view, with filters for gender, education level, and position so stakeholders can slice the data by their own questions.
